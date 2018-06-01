@@ -1,0 +1,4 @@
+
+class InvalidResumeException(Exception):
+    pass
+
